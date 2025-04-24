@@ -1,6 +1,6 @@
-# clinic managerr API
+# clinic manager API
 
-A simple Task Manager API built with Node.js, Express, and MySQL to manage tasks. This API allows users to create, read, update, and delete tasks stored in a MySQL database.
+A simple clinic  Manager API built with Node.js, Express, and MySQL to manage tasks. This API allows users to create, read, update, and delete tasks stored in a MySQL database.
 
 ## Features
 - **Create Tasks**: Add new tasks with a title, description, and completion status.
